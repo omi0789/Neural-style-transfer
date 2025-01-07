@@ -26,7 +26,8 @@ The model uses a pre-trained CNN (e.g., VGG-19) to extract image features and op
 
 3. Download the pre-trained model weights (if required) and place them in the models/ directory.
 
-##Results
+## Results
+
 Here are some example results produced by the model:
 
 Content Image:![figures](https://github.com/user-attachments/assets/d7434af4-5a5a-4281-a9aa-54926ebf34a5)
